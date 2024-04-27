@@ -1,9 +1,9 @@
 ﻿var firstname = "Ewa";
 var gender = "kobieta";
 int age = 30;
-if (gender == "kobieta" && age == 30)
+if (gender == "kobieta" && age < 30)
 {
-    Console.WriteLine("kobieta lat 30");
+    Console.WriteLine("kobieta ponizej lat 30");
 }
 else if (firstname == "Ewa" && age == 30)
 {
