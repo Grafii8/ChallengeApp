@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.Design;
-
-var firstname = "Ewa";
+﻿var firstname = "Ewa";
 var gender = "kobieta";
 int age = 30;
 if (gender == "kobieta" && age == 30)
